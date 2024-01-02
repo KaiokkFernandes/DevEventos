@@ -36,6 +36,7 @@ namespace src.Controllers
                     DataEvento = "20/11/2021",
                     ImagemURL = "foto.png"
                 }
+                
             };
         }
 
