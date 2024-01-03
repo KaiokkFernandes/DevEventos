@@ -8,7 +8,9 @@ import { RouterOutlet } from '@angular/router';
   imports: [CommonModule, RouterOutlet],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
+  
 })
 export class AppComponent {
   title = 'ProEventos-App';
+eventos: any;
 }
